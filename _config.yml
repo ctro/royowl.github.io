@@ -12,7 +12,7 @@ title: RoyOwl
 tagline:
 email: ''
 description: > # this means ignore newlines until "baseurl:"
-  Recommending simple, durable products for life; free shipping from Amazon Prime.
+  Recommending simple, durable products for life; free shipping from <a target="_blank" href="https://www.amazon.com/tryprimefree?ref_=assoc_tag_ph_1427739975520&_encoding=UTF8&camp=1789&creative=9325&linkCode=pf4&tag=royowl-20&linkId=ca5c36f8fe74cf957fd5873798eb5e9f">Amazon Prime</a>.
   Tested in the mountains, trails, and rivers of <a href="https://goo.gl/maps/KLmL3C4x34u">Jackson Hole, Wyoming</a>.
 baseurl: / # the subpath of your site, e.g. /blog
 url: "http://royowl.net" # the base hostname & protocol for your site
