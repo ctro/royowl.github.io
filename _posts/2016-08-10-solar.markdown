@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Solar in the Sidecountry"
+categories:
+  - nomad
+---
+
+12-Volt power is camper lifeblood. Without it these things don't work:
+
+- Lights
+- Fridge
+- Heater
+- Water Pump
+- C02/LP Detectors
+- Power awnings and other _necessities_
+
+![Remote OFfcie](/assets/remote-office.jpg)
+
+12v runs your inverter and charges your computer, your phone, and your [sound system](http://amzn.to/25SZoND).
+
+The first thing to do is make sure your batteries don't suck.  Get 2 good, matched [deep cycle batteries](http://amzn.to/1XMZmGf) and [wire them](http://amzn.to/1XN0vNU) in [parallel](/assets/batteryWireDiagram.jpg).
+
+My family can use all we want for ~5 days. If you're going to spend a couple weeks off the grid you'll need to juice up.
+
+Solar is the best option. **Most people put solar on their roof; I like to deploy my panels in the sunshine while I'm parked in the shade**.  This [Solar suitcase setup](http://amzn.to/1YiJ1aX) is 100W and has been wonderful.
+
+[![Remote OFfcie](/assets/solar.jpg)](http://amzn.to/1YiJ1aX)
+
+If you are sunshine-challenged a generator comes in handy.  I love our [Honda 1000](http://amzn.to/1tnLt4r).  It's going to run for 100 years.
+
+A couple benefits to the genny
+
+- You can power-up a bunch of nomad friends if your wagons are circled
+- You can use [your favorite smart battery charger](http://amzn.to/1WJatz5) for optimum battery life
+- It works in the night. Sometimes your battery runs out in the night. And then the CO2 detector's low battery alarm blares.  Until you can pull enough fuses to make it stop.  Dogs and kids love that.

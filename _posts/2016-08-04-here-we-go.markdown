@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "HOOT!"
+categories:
+  - meta
+  - simplicity
+---
+
+After a few coughs and a little puffing smoke, royowl.net lives!
+We've long been aware of [Jekyll](https://jekyllrb.com/) but this is my first project with it.
+
+This is simplicity: [Markdown](https://en.wikipedia.org/wiki/Markdown) to static HTML.
+History managed with git.  No databases, no servers. Hosted for free on github.
+
+Updating this site is as simple as `git push`.
+
+**Our goal with this site is to highlight great products from Amazon Prime.
+Things that we think will last for-life.  Things that we love to give as presents.  Things that people stop and ask us about.**
+
+We're looking forward to the journey!
