@@ -9,7 +9,7 @@ categories:
 There's no better way to cool off in the summer than getting wet.
 In the mountains we take to our rivers and lakes.
 
-![Jenny Lake, GTNP](/assets/jenny.jpg)
+![String Lake, GTNP](/assets/string.jpg)
 
 Paddle boards are a great, inexpensive way to enjoy the water.
 They are super for beginners because you can start by sitting down or kneeling.
