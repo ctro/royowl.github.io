@@ -30,7 +30,7 @@ My family has a couple sets of [Tower Paddle Boards](http://amzn.to/2b9UcC6). Th
 
 I've seen TONS of these paddle boards on rivers and lakes in Grand Teton National Park.  I think people are catching on.
 
-Pull up to String lake with your paddle boards, your [Yeti Hopper](http://amzn.to/2aAXSbx), and your [ENO Hammmock](http://amzn.to/2b9VwoK) and unpack the good times.
+Pull up to String lake with your paddle boards, your [Yeti 20](http://amzn.to/2aKQk5K), and your [ENO Hammmock](http://amzn.to/2b9VwoK) and unpack the good times.
 
 Add a pair of [Von Zipper Lesmore](http://amzn.to/2aHFwJ7) sunglasses because the sun is so bright.
 These sunglasses remind me of my favorite RayBans but they are cheaper and so much lighter.
