@@ -4,6 +4,7 @@ title:  "Solar in the Sidecountry"
 published: true
 categories:
   - nomad
+  - simplicity
 ---
 
 12-Volt power is camper lifeblood. Without it these things don't work:
