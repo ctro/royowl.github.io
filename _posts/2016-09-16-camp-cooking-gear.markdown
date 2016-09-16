@@ -8,7 +8,7 @@ categories:
   - food
 ---
 
-I love to cook at home, and for friends.  I especially love cooking in the outdoors.  Here are a couple favorite camp-cook accessories!
+🍳 I love to cook at home, and for friends.  I especially love cooking in the outdoors.  Here are a couple favorite camp-cook accessories! 🍳
 
 [![Wilson Grill](/assets/wilsongrill.jpg)](http://amzn.to/2d40KjP)
 The Wilson Grill originated next door in Wilson, WY.  It's beautiful in its simplicity: a single stake in the ground and an adjustable, floating grill.  Perfect for a 12-egg-omlette.
@@ -18,7 +18,7 @@ Sadly, no one makes "real" Wilson Grills anymore, but you can find good alternat
 [![Dutch Oven](/assets/oven.jpg)](http://amzn.to/2csMss1)
 Feel like baking biscuits?  [A good Dutch Oven](http://amzn.to/2csMss1) is a camp necessity.  Put this pot right in the fire ring and sprinkle some coals on the lid.  Also great for breads, stews, pies, or 100 other things.
 
-All this means you have to stat a fire, here are some products to make it a snap!
+All this means you have to stat a 🔥fire🔥, here are some products to make it a snap!
 
 [![Fire Dragon](/assets/firedragon.jpg)](http://amzn.to/2d42Pfw)
 
